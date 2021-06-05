@@ -168,10 +168,9 @@ footer{
     font-weight: bold;
 }
 .bar{
-    width: 70%; background: linear-gradient(90deg, rgba(1,18,10,1) 0%, rgba(9,121,88,1) 37%, rgba(0,212,255,1) 100%);
+    width: 40%; background: linear-gradient(90deg, rgba(1,18,10,1) 0%, rgba(9,121,88,1) 37%, rgba(0,212,255,1) 100%);
 }
 .carousel-control-prev-icon,.carousel-control-next-icon{
-    background-color: black;
     height: 50px;
     width: 50px;
 }
